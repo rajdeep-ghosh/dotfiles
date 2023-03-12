@@ -59,10 +59,10 @@
                 "colorScheme": "coolnight",
                 "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
                 "hidden": false,
+                // "useAcrylic": true,
+                // "opacity": 65,
                 "name": "Git Bash",
                 "source": "Git"
-                // "useAcrylic": true,
-                // "opacity": 65
             }
         ]
     },
