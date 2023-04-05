@@ -1,5 +1,5 @@
 {
-    "cmd": ["g++.exe","-std=c++14", "${file}", "-o", "${file_base_name}.exe", "&&" , "${file_base_name}.exe<input.txt>output.txt"],
+    "cmd": ["g++.exe", "-std=c++14", "-Wall", "-O2", "${file}", "-o", "${file_base_name}", "&&" , "${file_base_name}.exe"],
     "selector": "source.cpp",
     "shell": true,
     "working_dir": "$file_path"
