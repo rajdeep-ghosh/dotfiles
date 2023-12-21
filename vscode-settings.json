@@ -1,0 +1,47 @@
+{
+  "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.linkedEditing": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "extensions.autoUpdate": false,
+  "update.enableWindowsBackgroundUpdates": false,
+  "files.eol": "\n",
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[cpp]": {
+    "editor.fontLigatures": false
+  },
+  // "c-cpp-flylint.clang.enable": false,
+  // "c-cpp-flylint.flawfinder.enable": false,
+  // "c-cpp-flylint.flexelint.enable": false,
+  // "c-cpp-flylint.lizard.enable": false,
+  // "c-cpp-flylint.cppcheck.extraArgs": [],
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+  "cph.general.menuChoices": "cpp python c rust",
+  "cph.language.cpp.Args": "-std=c++17 -O2",
+  "cph.general.firstTime": false,
+  "cph.general.timeOut": 4000
+}
